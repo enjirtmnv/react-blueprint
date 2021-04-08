@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-blueprint/static/css/main.2181152f.chunk.css",
+    "main.js": "/react-blueprint/static/js/main.62de59c0.chunk.js",
+    "main.js.map": "/react-blueprint/static/js/main.62de59c0.chunk.js.map",
+    "runtime-main.js": "/react-blueprint/static/js/runtime-main.d98d13a1.js",
+    "runtime-main.js.map": "/react-blueprint/static/js/runtime-main.d98d13a1.js.map",
+    "static/css/2.6da323d9.chunk.css": "/react-blueprint/static/css/2.6da323d9.chunk.css",
+    "static/js/2.7605c137.chunk.js": "/react-blueprint/static/js/2.7605c137.chunk.js",
+    "static/js/2.7605c137.chunk.js.map": "/react-blueprint/static/js/2.7605c137.chunk.js.map",
+    "static/js/3.65e58d19.chunk.js": "/react-blueprint/static/js/3.65e58d19.chunk.js",
+    "static/js/3.65e58d19.chunk.js.map": "/react-blueprint/static/js/3.65e58d19.chunk.js.map",
+    "index.html": "/react-blueprint/index.html",
+    "static/css/2.6da323d9.chunk.css.map": "/react-blueprint/static/css/2.6da323d9.chunk.css.map",
+    "static/css/main.2181152f.chunk.css.map": "/react-blueprint/static/css/main.2181152f.chunk.css.map",
+    "static/js/2.7605c137.chunk.js.LICENSE.txt": "/react-blueprint/static/js/2.7605c137.chunk.js.LICENSE.txt",
+    "static/media/blueprint.4ebf8b0c.svg": "/react-blueprint/static/media/blueprint.4ebf8b0c.svg",
+    "static/media/pin-black.64af410c.png": "/react-blueprint/static/media/pin-black.64af410c.png",
+    "static/media/pin-red.64cdcb0e.png": "/react-blueprint/static/media/pin-red.64cdcb0e.png",
+    "static/media/leaflet.draw.css": "/react-blueprint/static/media/spritesheet.a4e0eb7a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d98d13a1.js",
+    "static/css/2.6da323d9.chunk.css",
+    "static/js/2.7605c137.chunk.js",
+    "static/css/main.2181152f.chunk.css",
+    "static/js/main.62de59c0.chunk.js"
+  ]
+}
