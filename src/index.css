@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Zilla+Slab+Highlight:wght@700&display=swap');
+
+body {
+    background-color: #ffffff;
+}
+
+.blueprint__wrap {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.blueprint__name {
+    font-size: 50px;
+    font-family: 'Zilla Slab Highlight', cursive;
+    color: #a382dd;
+    background-color: #89ffe9;
+    margin: 20px 0 30px 0;
+}

@@ -3,10 +3,10 @@ import './App.css';
 import {MapContainer, ImageOverlay, FeatureGroup, ZoomControl} from 'react-leaflet';
 import {EditControl} from 'react-leaflet-draw';
 import L from 'leaflet';
-import blueprint from './img/blueprint.svg';
 import "leaflet/dist/leaflet.css";
 import 'leaflet-draw/dist/leaflet.draw.css';
-import './App.css';
+
+import blueprint from './img/blueprint.svg';
 import blackPin from './img/pin-black.png';
 import redPin from './img/pin-red.png';
 import shadowPin from './img/marker-shadow.png';
