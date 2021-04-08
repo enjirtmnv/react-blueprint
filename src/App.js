@@ -69,7 +69,7 @@ function App() {
             <div>
                 <MapContainer
                     crs={L.CRS.Simple}
-                    minZoom={-1.5}
+                    minZoom={-2}
                     bounds={bounds}
                     style={style}
                     preferCanvas={true}
