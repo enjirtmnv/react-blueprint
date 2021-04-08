@@ -1,5 +1,7 @@
+Интерактивная карта (план помещения) на странице сайта. Есть возможность отрисовать полигон, прямоугольник, круг и добавить метку. Метки меняют цвет при наведении, фигуры при взаимодействии с ними. Также можно приближать или отдалять карту.
 
 Проверить работу можно здесь https://enjirtmnv.github.io/react-blueprint/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
